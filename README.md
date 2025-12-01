@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**DahbChain/DahbChain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 # DahbChain
 
 DahbChain is a high-performance, EVM-compatible Layer 1 blockchain designed for fast, low-cost transactions and an extremely simple developer and token-launch experience.
@@ -53,3 +49,4 @@ dahbchain/
   chain/
   sdk-js/
   dapp-token-launcher/
+
