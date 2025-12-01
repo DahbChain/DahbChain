@@ -1,1 +1,15 @@
+{
+  "name": "@dahbchain/sdk-js",
+  "version": "0.0.1",
+  "description": "Simple JavaScript SDK for interacting with DahbChain",
+  "main": "index.js",
+  "keywords": [
+    "dahbchain",
+    "blockchain",
+    "sdk",
+    "evm"
+  ],
+  "author": "DahbChain",
+  "license": "MIT"
+}
 
